@@ -1,0 +1,159 @@
+Starting SellApplication on DESKTOP-GP4UST7 with PID 10512 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 7745 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 9.84 seconds (JVM running for 11.173)
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 15364 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.281 seconds (JVM running for 7.832)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 600 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 5.632 seconds (JVM running for 6.974)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 17296 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 7.212 seconds (JVM running for 9.0)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 10480 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.385 seconds (JVM running for 8.149)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 4040 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 5.879 seconds (JVM running for 7.2)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 6916 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.24 seconds (JVM running for 8.343)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s888ms794µs264ns).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m54s381ms705µs345ns).
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 12348 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 7.361 seconds (JVM running for 9.075)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 18112 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.795 seconds (JVM running for 8.479)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+result:OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=2, payStatus=0, createTime=Fri Jun 14 02:09:26 CST 2019, updateTime=Fri Jun 14 02:12:29 CST 2019, orderDetailEntityList=[OrderDetailEntity(detailId=123456, orderId=123456, productId=123456, productName=皮蛋粥, productPrice=3.50, productQuantity=11, productIcon=http://xxx.jpg), OrderDetailEntity(detailId=123457, orderId=123456, productId=123458, productName=小龙虾, productPrice=88.00, productQuantity=11, productIcon=http://xxx.jpg)])
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 18212 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.687 seconds (JVM running for 8.206)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 2896 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 4.745 seconds (JVM running for 6.295)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+result:OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=2, payStatus=0, createTime=Fri Jun 14 02:12:44 CST 2019, updateTime=Fri Jun 14 02:13:59 CST 2019, orderDetailEntityList=[OrderDetailEntity(detailId=123456, orderId=123456, productId=123456, productName=皮蛋粥, productPrice=3.50, productQuantity=11, productIcon=http://xxx.jpg), OrderDetailEntity(detailId=123457, orderId=123456, productId=123458, productName=小龙虾, productPrice=88.00, productQuantity=11, productIcon=http://xxx.jpg)])
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 168 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 248 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 7.693 seconds (JVM running for 9.887)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 7912 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 6.436 seconds (JVM running for 7.88)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+result:OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=1, payStatus=0, createTime=Fri Jun 14 02:14:10 CST 2019, updateTime=Fri Jun 14 03:47:51 CST 2019, orderDetailEntityList=[OrderDetailEntity(detailId=123456, orderId=123456, productId=123456, productName=皮蛋粥, productPrice=3.50, productQuantity=11, productIcon=http://xxx.jpg), OrderDetailEntity(detailId=123457, orderId=123456, productId=123458, productName=小龙虾, productPrice=88.00, productQuantity=11, productIcon=http://xxx.jpg)])
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 11180 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 5.056 seconds (JVM running for 6.406)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+result:OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Fri Jun 14 03:50:56 CST 2019, updateTime=Fri Jun 14 06:49:12 CST 2019, orderDetailEntityList=[OrderDetailEntity(detailId=123456, orderId=123456, productId=123456, productName=皮蛋粥, productPrice=3.50, productQuantity=11, productIcon=http://xxx.jpg), OrderDetailEntity(detailId=123457, orderId=123456, productId=123458, productName=小龙虾, productPrice=88.00, productQuantity=11, productIcon=http://xxx.jpg)])
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 8108 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 3.909 seconds (JVM running for 4.952)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderMasterServiceImplTest on DESKTOP-GP4UST7 with PID 16160 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started OrderMasterServiceImplTest in 4.41 seconds (JVM running for 5.615)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+result:OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Fri Jun 14 06:49:44 CST 2019, updateTime=Fri Jun 14 06:54:06 CST 2019, orderDetailEntityList=[OrderDetailEntity(detailId=123456, orderId=123456, productId=123456, productName=皮蛋粥, productPrice=3.50, productQuantity=11, productIcon=http://xxx.jpg), OrderDetailEntity(detailId=123457, orderId=123456, productId=123458, productName=小龙虾, productPrice=88.00, productQuantity=11, productIcon=http://xxx.jpg)])
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

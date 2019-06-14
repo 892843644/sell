@@ -1,0 +1,64 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.194.129/sell?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+##  打印sql语句
+#  jpa:
+#    show-sql: true
+
+mybatis-plus:
+  #xml扫描
+  mapper-locations: classpath:mapper/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+      field-strategy: not_empty
+      db-type: mysql
+  configuration:
+    #  是否开启自动驼峰命名规则映射:从数据库列名到Java属性驼峰命名的类似映射
+    map-underscore-to-camel-case: true
+
+    # 如果查询结果中包含空值的列，则 MyBatis 在映射的时候，不会映射这个字段
+    call-setters-on-nulls: false
+
+    # 这个配置会将执行的sql打印出来，在开发或测试的时候可以用
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+server:
+  servlet:
+    context-path: /sell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#这种配置日志方式功能太少，使用xml
+#logging:
+#  pattern:
+#    console: "%d-%msg%n"
+# # path: D:/workspace/sell/var/log/tomcat/
+# #file更改默认日志名称pring.log
+#  file: D:/workspace/sell/var/log/tomcat/sell.log
+#  level:
+#   ！给全局加用root：debug
+#    com.imooc.sell.LoggerTest: debug

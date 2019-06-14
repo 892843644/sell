@@ -1,0 +1,5 @@
+【取消订单】订单状态不对，orderId=123456,orderStatus=0
+【取消订单】订单状态不对，orderId=123456,orderStatus=2
+【取消订单】订单状态不对，orderId=123456,orderStatus=2
+【完结订单】 订单状态不对 ,orderId=123456,orderStatus=0
+【支付订单成功】订单支付状态不正确， orderId=123456,payStatus=1
