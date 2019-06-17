@@ -3,6 +3,8 @@ package com.imooc.sell.service.impl;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.imooc.sell.converter.OrderFrom2OrderDTO;
+import com.imooc.sell.converter.OrderMaster2OrderDTO;
 import com.imooc.sell.dto.OrderDTO;
 import com.imooc.sell.entity.OrderDetailEntity;
 import com.imooc.sell.entity.OrderMasterEntity;
@@ -28,8 +30,8 @@ public class OrderMasterServiceImplTest {
     @Test
     public void saveTest(){
         OrderMasterEntity orderMasterEntity = new OrderMasterEntity();
-        orderMasterEntity.setOrderId("1234567");
-        orderMasterEntity.setBuyerName("超超");
+        orderMasterEntity.setOrderId("1234568");
+        orderMasterEntity.setBuyerName("啊啊");
         orderMasterEntity.setBuyerPhone("18888866666");
         orderMasterEntity.setBuyerAddress("工业大学");
         orderMasterEntity.setBuyerOpenid(openId);
@@ -41,13 +43,24 @@ public class OrderMasterServiceImplTest {
     @Test
     public void findByBuyerOpenId(){
         QueryWrapper<OrderMasterEntity> queryWrapper = new QueryWrapper<>();
-        IPage<OrderMasterEntity> OrderMasterEntityPage=new Page<>(2,2);
-        IPage<OrderDTO> OrderDTOPage=new Page<>();
+        IPage<OrderMasterEntity> orderMasterEntityIPage=new Page<>(0,2);
+        IPage<OrderDTO> orderDTOIPage=new Page<>();
 
         queryWrapper.eq("buyer_openid",openId);
-        OrderMasterEntityPage = orderMasterService.page(OrderMasterEntityPage, queryWrapper);
-        BeanUtils.copyProperties(OrderMasterEntityPage,OrderDTOPage);
-        log.info(OrderDTOPage.getRecords()+"");
+        orderMasterEntityIPage= orderMasterService.page(orderMasterEntityIPage, queryWrapper);
+        //克隆
+        BeanUtils.copyProperties(orderMasterEntityIPage,orderDTOIPage);
+
+        List<OrderMasterEntity> orderMasterEntityList = orderMasterEntityIPage.getRecords();
+
+        List<OrderDTO> orderDTOList = OrderMaster2OrderDTO.convert(orderMasterEntityList);
+
+
+        //set
+        orderDTOIPage.setRecords(orderDTOList);
+        log.info(orderDTOIPage.getRecords()+"");
+
+
     }
 
     @Test
