@@ -72,10 +72,11 @@ public class OrderMasterServiceImpl extends ServiceImpl<OrderMasterDAO,OrderMast
         //订单主表入库
         OrderMasterEntity orderMasterEntity = new OrderMasterEntity();
         System.out.println(orderMasterEntity);
+
         //先拷贝在set其他方法 以免被覆盖
+        orderDTO.setOrderId(orderId);
         BeanUtils.copyProperties(orderDTO,orderMasterEntity);
         orderMasterEntity.setOrderAmount(orderAmount);
-        orderMasterEntity.setOrderId(orderId);
         orderMasterEntity.setPayStatus(PayStatusEnum.WAIT.getCode());
         orderMasterEntity.setOrderStatus(OrderStatusEnum.NEW.getCode());
         orderMasterService.save(orderMasterEntity);

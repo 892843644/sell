@@ -1,0 +1,189 @@
+Starting SellApplication on DESKTOP-GP4UST7 with PID 4624 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1132 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.469 seconds (JVM running for 3.567)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplicationTests on DESKTOP-GP4UST7 with PID 1088 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SellApplicationTests in 3.984 seconds (JVM running for 5.138)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SellApplicationTests on DESKTOP-GP4UST7 with PID 4860 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SellApplicationTests in 3.805 seconds (JVM running for 4.89)
+[{"productQuantity":2,"productId":"1423113435324"}]
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SellApplicationTests on DESKTOP-GP4UST7 with PID 9096 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SellApplicationTests in 3.375 seconds (JVM running for 4.316)
+[{"productQuantity":2,"productId":"1423113435324"}]
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting SellApplication on DESKTOP-GP4UST7 with PID 14644 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1080 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.494 seconds (JVM running for 3.585)
+Starting SellApplication on DESKTOP-GP4UST7 with PID 16512 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1317 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.78 seconds (JVM running for 3.954)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 16572 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1015 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.351 seconds (JVM running for 3.281)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 16580 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1006 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.217 seconds (JVM running for 3.055)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 17036 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 967 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.251 seconds (JVM running for 3.117)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+Starting SellApplicationTests on DESKTOP-GP4UST7 with PID 17284 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started SellApplicationTests in 3.299 seconds (JVM running for 4.3)
+[{"productQuantity":2,"productId":"1423113435324"}]
+Shutting down ExecutorService 'applicationTaskExecutor'
+orderDetailEntity:[{"productQuantity":2,"productId":"1423113435324"}]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "1423113435324",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[{"productQuantity":2,"productId":"1423113435324"}])
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+orderDetailEntity:[{"productQuantity":2,"productId":"1423113435324"}]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "1423113435324",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[{"productQuantity":2,"productId":"1423113435324"}])
+orderDetailEntity:[{"productQuantity":2,"productId":"1423113435324"}]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "1423113435324",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[{"productQuantity":2,"productId":"1423113435324"}])
+Starting SellApplication on DESKTOP-GP4UST7 with PID 9164 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 952 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.167 seconds (JVM running for 2.998)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "1423113435324",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "1423113435324",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123459, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "123459",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123459, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= [{productId: "123456",productQuantity: 2}], orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+Starting SellApplication on DESKTOP-GP4UST7 with PID 14776 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1112 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.428 seconds (JVM running for 3.54)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= "ew3euwhd7sjw9diwkq", orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=1423113435324, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= "张三", buyerPhone= "18868822111", buyerAddress= "慕课网总部", buyerOpenid= "ew3euwhd7sjw9diwkq", orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= 张三, buyerPhone= 18868822111, buyerAddress= 慕课网总部, buyerOpenid= ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= 张三, buyerPhone= 18868822111, buyerAddress= 慕课网总部, buyerOpenid= ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+Starting SellApplication on DESKTOP-GP4UST7 with PID 13400 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 968 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.218 seconds (JVM running for 3.105)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName= 张三, buyerPhone= 18868822111, buyerAddress= 慕课网总部, buyerOpenid= ew3euwhd7sjw9diwkq, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=2, productIcon=null)])
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
