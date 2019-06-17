@@ -1,9 +1,9 @@
 package com.imooc.sell.dto;
 
-import com.baomidou.mybatisplus.annotation.TableField;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.imooc.sell.entity.OrderDetailEntity;
-import com.imooc.sell.enums.OrderStatusEnum;
-import com.imooc.sell.enums.PayStatusEnum;
+import com.imooc.sell.utils.serializer.Date2LongSerializer;
 import lombok.Data;
 
 import java.math.BigDecimal;
@@ -29,8 +29,10 @@ public class OrderDTO {
     /** 支付状态，默认0未支付 */
     private Integer payStatus ;
 
+    @JsonSerialize(using =Date2LongSerializer.class)
     private Date createTime;
 
+    @JsonSerialize(using =Date2LongSerializer.class)
     private Date updateTime;
 
     /** 一个订单对于多个订单详情 */

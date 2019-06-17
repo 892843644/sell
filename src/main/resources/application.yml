@@ -1,5 +1,8 @@
 
 spring:
+# 字段值为null的不返回
+  jackson:
+    default-property-inclusion: non_null
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root

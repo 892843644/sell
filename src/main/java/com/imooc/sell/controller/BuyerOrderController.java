@@ -7,10 +7,13 @@ import com.imooc.sell.VO.ResultVO;
 import com.imooc.sell.converter.OrderFrom2OrderDTO;
 import com.imooc.sell.converter.OrderMaster2OrderDTO;
 import com.imooc.sell.dto.OrderDTO;
+import com.imooc.sell.entity.OrderDetailEntity;
 import com.imooc.sell.entity.OrderMasterEntity;
 import com.imooc.sell.enums.ResultEnum;
 import com.imooc.sell.exception.SellException;
 import com.imooc.sell.form.OrderFrom;
+import com.imooc.sell.service.BuyerService;
+import com.imooc.sell.service.OrderDetailService;
 import com.imooc.sell.service.OrderMasterService;
 import com.imooc.sell.utils.ResultVoUtil;
 import lombok.extern.slf4j.Slf4j;
@@ -22,6 +25,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -32,7 +36,9 @@ import java.util.Map;
 public class BuyerOrderController {
     @Autowired
     private OrderMasterService orderMasterService;
-
+    @Autowired
+    private BuyerService buyerService;
+    
     /**
      *  创建订单
      * @param orderFrom
@@ -95,6 +101,30 @@ public class BuyerOrderController {
         orderDTOIPage.setRecords(orderDTOList);
         List<OrderDTO> records = orderDTOIPage.getRecords();
         log.info(orderDTOIPage.getRecords()+"");
+
         return  ResultVoUtil.success(records);
+    }
+
+    /**
+     * 查询订单详情
+     * @param openid 微信openid
+     * @param orderId 订单id
+     * @return ResultVO<OrderDTO>
+     */
+    //订单详情
+    @GetMapping("/detail")
+    public ResultVO<OrderDTO> detail(@RequestParam("openid") String openid,
+                                     @RequestParam("orderId") String orderId){
+
+        OrderDTO orderOne = buyerService.findOrderOne(openid, orderId);
+        return  ResultVoUtil.success(orderOne);
+    }
+
+    @PostMapping("/cancel")
+    public ResultVO cancel(@RequestParam("openid") String openid,
+                           @RequestParam("orderId") String orderId){
+
+        buyerService.cancelOrder(openid, orderId);
+        return ResultVoUtil.success();
     }
 }
