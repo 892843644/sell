@@ -20,6 +20,6 @@ public class LoggerTest {
         String password="123456";
         log.debug("debug...");
         log.info("name:{},password:{}",name,password);
-        log.error("error...");
+        log.error("error....");
     }
 }
