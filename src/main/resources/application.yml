@@ -34,7 +34,9 @@ server:
   servlet:
     context-path: /sell
 
-
+wechat:
+  mpAppId: wx7e43b0ef828ebb9e
+  mpAppSecret: 07890f01882b23cbecd99264f6883202
 
 
 
