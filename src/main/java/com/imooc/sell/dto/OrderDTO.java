@@ -19,13 +19,16 @@ public class OrderDTO {
     private String buyerPhone;
 
     private String buyerAddress;
+
     /** 买家微信openid */
     private String buyerOpenid;
+
     /** 订单金额 */
     private BigDecimal orderAmount;
 
     /** 订单状态，默认0新下单 */
     private Integer orderStatus;
+
     /** 支付状态，默认0未支付 */
     private Integer payStatus ;
 
