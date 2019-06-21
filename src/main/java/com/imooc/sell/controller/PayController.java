@@ -6,11 +6,10 @@ import com.imooc.sell.exception.SellException;
 import com.imooc.sell.service.OrderMasterService;
 import com.imooc.sell.service.PayService;
 import com.lly835.bestpay.model.PayResponse;
+import com.lly835.bestpay.rest.type.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
 import java.rmi.MarshalledObject;
@@ -38,6 +37,17 @@ public class PayController {
        // PayResponse payResponse = payService.create(orderDTO);
        // map.put("payResponse",payResponse);
         map.put("returnUrl",returnUrl);
+        //修改订单支付状态
+        orderMasterService.paid(orderDTO);
         return new ModelAndView("pay/create",map);
+    }
+
+    /**
+     * 微信异步通知
+     * @param notifyData
+     */
+    @PostMapping("/notify")
+    public void notify(@RequestBody String notifyData){
+
     }
 }

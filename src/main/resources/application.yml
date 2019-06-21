@@ -40,6 +40,7 @@ wechat:
   mchId: 1409146202
   mchKey: qqq
   keyPath: /var/weixin_cert/h5.p12
+  #异步通知地址
   notifyUrl: http://wcs.natapp1.cc//sell/pay/notify
 
 
