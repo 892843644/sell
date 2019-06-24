@@ -1,0 +1,517 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h34m49s50ms396µs657ns).
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+Starting SellApplication on DESKTOP-GP4UST7 with PID 14180 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1089 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.276 seconds (JVM running for 3.516)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+进去auth方法。。。
+Starting SellApplication on DESKTOP-GP4UST7 with PID 21376 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1057 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.364 seconds (JVM running for 3.262)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+进去auth方法。。。
+code=071Ggb7b1wdspx0kck9b1wQS6b1Ggb7z
+进去auth方法。。。
+code=081XwXCw1GUOjg0wj8Cw1SsVCw1XwXCn
+Starting SellApplication on DESKTOP-GP4UST7 with PID 10260 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2166 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.958 seconds (JVM running for 4.914)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+进去auth方法。。。
+code=081NJfMZ0W84VX1wnQNZ0KvpMZ0NJfMW
+state=STATE
+Starting SellApplication on DESKTOP-GP4UST7 with PID 21052 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 996 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.261 seconds (JVM running for 3.101)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+进去auth方法。。。
+code=011U0lR00vJeuI1tYtU00vSaR00U0lRQ
+state=STATE
+josnStr={"access_token":"22_1xce99GxK9CF5Du9x7Uax_bIR9Ml0CVeXm6P1868TRq7uVjebaa3whx2jGjMezye0J9rsc12xVc0pfy0MiDuA23u9fEj0jXljf7Sfvf4jkE","expires_in":7200,"refresh_token":"22_w_Uo-yGuy9xd5-RJNx04-jkZWl0vOaH3n9HAYBNURYHpSZnAcKG1SnlLHDAxRjWzN5oS4rXhE_kqOhGqaUrVrs2MDT3gwa11n-FtDl-KYyk","openid":"oprCQ5gpE05zbdKXq3J3A04rrFrI","scope":"snsapi_base"}
+Starting SellApplication on DESKTOP-GP4UST7 with PID 21328 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1009 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.815 seconds (JVM running for 3.689)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 17712 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1046 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.161 seconds (JVM running for 4.536)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 5208 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1021 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.271 seconds (JVM running for 4.513)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 20592 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1002 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.016 seconds (JVM running for 4.024)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 17836 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 982 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.708 seconds (JVM running for 3.596)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 5260 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1070 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.836 seconds (JVM running for 3.898)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 19472 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1018 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.757 seconds (JVM running for 3.657)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 17336 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 987 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.745 seconds (JVM running for 3.645)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fweixin%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 15684 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 955 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.778 seconds (JVM running for 3.688)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+Starting SellApplication on DESKTOP-GP4UST7 with PID 8664 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1009 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.763 seconds (JVM running for 3.631)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+Starting SellApplication on DESKTOP-GP4UST7 with PID 6312 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1004 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.759 seconds (JVM running for 3.632)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+oprCQ5gpE05zbdKXq3J3A04rrFrI
+Starting SellApplication on DESKTOP-GP4UST7 with PID 12664 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 994 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.723 seconds (JVM running for 3.623)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=www.imooc.com&connect_redirect=1#wechat_redirect
+[【【【【【【【【【【【【【【【【【【【【
+oprCQ5gpE05zbdKXq3J3A04rrFrI
+Starting SellApplication on DESKTOP-GP4UST7 with PID 19236 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1006 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.945 seconds (JVM running for 4.043)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 4 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 9240 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1195 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.408 seconds (JVM running for 5.117)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 7468 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 980 ms
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'weChatMpConfig': Unsatisfied dependency expressed through field 'wechatAccountConfig'; nested exception is org.springframework.boot.context.properties.ConfigurationPropertiesBindException: Error creating bean with name 'wechatAccountConfig': Could not bind properties to 'WechatAccountConfig' : prefix=wechat.wechatAccountConfig, ignoreInvalidFields=false, ignoreUnknownFields=true; nested exception is org.springframework.boot.context.properties.source.InvalidConfigurationPropertyNameException: Configuration property name 'wechat.wechatAccountConfig' is not valid
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 15476 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 909 ms
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'weChatMpConfig': Unsatisfied dependency expressed through field 'wechatAccountConfig'; nested exception is org.springframework.boot.context.properties.ConfigurationPropertiesBindException: Error creating bean with name 'wechatAccountConfig': Could not bind properties to 'WechatAccountConfig' : prefix=wechat.wechatAccountConfig, ignoreInvalidFields=false, ignoreUnknownFields=true; nested exception is org.springframework.boot.context.properties.source.InvalidConfigurationPropertyNameException: Configuration property name 'wechat.wechatAccountConfig' is not valid
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 12984 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1250 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.626 seconds (JVM running for 4.528)
+Starting SellApplication on DESKTOP-GP4UST7 with PID 6968 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 910 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.705 seconds (JVM running for 3.667)
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18292 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1231 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.64 seconds (JVM running for 5.216)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 19836 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 926 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.732 seconds (JVM running for 3.658)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18372 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1044 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.849 seconds (JVM running for 3.971)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 6696 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 972 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.767 seconds (JVM running for 4.179)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【查询订单列表】 openid为空
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+orderDetailEntity:[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)]
+orderDTO:OrderDTO(orderId=null, buyerName=c, buyerPhone=q, buyerAddress=q, buyerOpenid=oTgZpwVUxn2W9WLyiqLXx5hhon8A, orderAmount=null, orderStatus=null, payStatus=null, createTime=null, updateTime=null, orderDetailEntityList=[OrderDetailEntity(detailId=null, orderId=null, productId=123456, productName=null, productPrice=null, productQuantity=10, productIcon=null)])
+【查询订单列表】 openid为空
+[OrderDTO(orderId=123456, buyerName=超超, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=1, createTime=Mon Jun 17 22:15:56 CST 2019, updateTime=Mon Jun 17 22:16:07 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1234568, buyerName=啊啊, buyerPhone=18888866666, buyerAddress=工业大学, buyerOpenid=110110, orderAmount=2.50, orderStatus=0, payStatus=0, createTime=Mon Jun 17 16:22:16 CST 2019, updateTime=Mon Jun 17 16:22:16 CST 2019, orderDetailEntityList=null), OrderDTO(orderId=1560431995495878045, buyerName=夏林, buyerPhone=18649011111, buyerAddress=工大, buyerOpenid=110110, orderAmount=20.00, orderStatus=0, payStatus=0, createTime=Thu Jun 13 21:53:23 CST 2019, updateTime=Thu Jun 13 23:05:15 CST 2019, orderDetailEntityList=null)]
+进去auth方法。。。
+code=0017eXLP0rFYN32fxOJP0L82MP07eXLO
+state=STATE
+josnStr={"access_token":"22_Eb8QTE9DDulZ4uhdmRXKAgvew3gtTjcYiBqHl870XMBndk5R4vNSkpxQr8oURkpDSAKFVXMhd8q7JepPVqo9ccln2u7pGwQZkLfcNwMVo-o","expires_in":7200,"refresh_token":"22_tjcQBEtjEHrgph06xBdWOoeOu17D564_QwmTRkti1aM9nqe1WeTCrhxdNTV6wlUXXFCw-ZbLu6Lf6DKIUd-3vqiZcccnSWU4tecMv9kwbC4","openid":"oprCQ5gpE05zbdKXq3J3A04rrFrI","scope":"snsapi_base"}
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fwww.imooc.com&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 4320 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1034 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.912 seconds (JVM running for 3.863)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【微信网页授权】获得code，redirectUrl=https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7e43b0ef828ebb9e&redirect_uri=http%3A%2F%2Fwcs.natapp1.cc%2Fsell%2Fwechat%2FuserInfo&response_type=code&scope=snsapi_userinfo&state=http%3A%2F%2Fsell.com%2F%23%2F&connect_redirect=1#wechat_redirect
+Starting SellApplication on DESKTOP-GP4UST7 with PID 19772 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1312 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.185 seconds (JVM running for 4.241)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+进去auth方法。。。
+code=0010AXW422v9EO02bjW4286bX420AXWJ
+state=STATE
+josnStr={"access_token":"22_yCu-ptQpmz9FQjO9STP0_GO5bLrnUe5Jldnv6SDUcmstrLGb82LI0_HCxGxHg9sKB3oJy0AuctFJcIBYWLXpPuPD7Qc3Uxtz6gIL5FQbpQU","expires_in":7200,"refresh_token":"22_j9-kEol0ahKR8SyB6g2zO18PM5CxT7y00YGY7emc-jG0iBWkufB9OBK1xj986KFQz26QGyYoW5Vxl6Z2OrSyKR0n2z8yGYNGG8IR2_2Optk","openid":"oprCQ5gpE05zbdKXq3J3A04rrFrI","scope":"snsapi_base"}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
