@@ -18,4 +18,18 @@ public interface ProductInfoService extends IService<ProductInfoEntity> {
      * @param cartDTOList 购物车集合
      */
     public void decreaseStock(List<CartDTO> cartDTOList);
+
+    /**
+     * 商品上架
+     * @param productId
+     * @return
+     */
+    public ProductInfoEntity onSale(String productId);
+
+    /**
+     * 商品下架
+     * @param productId
+     * @return
+     */
+    public ProductInfoEntity offSale(String productId);
 }

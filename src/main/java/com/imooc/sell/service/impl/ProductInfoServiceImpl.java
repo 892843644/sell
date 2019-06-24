@@ -4,6 +4,8 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.imooc.sell.dao.ProductInfoDAO;
 import com.imooc.sell.dto.CartDTO;
 import com.imooc.sell.entity.ProductInfoEntity;
+import com.imooc.sell.enums.PayStatusEnum;
+import com.imooc.sell.enums.ProductStatusEnum;
 import com.imooc.sell.enums.ResultEnum;
 import com.imooc.sell.exception.SellException;
 import com.imooc.sell.service.ProductInfoService;
@@ -55,5 +57,39 @@ public class ProductInfoServiceImpl extends ServiceImpl<ProductInfoDAO,ProductIn
             //更新库存
             this.updateById(productInfoEntity);
         }
+    }
+
+    @Override
+    public ProductInfoEntity onSale(String productId) {
+        //查询商品是否存在
+        ProductInfoEntity productInfoEntity = this.getById(productId);
+        if(productInfoEntity==null){
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        //判断商品是否在架，在架则错误
+        if(productInfoEntity.getProductStatusEnum()== ProductStatusEnum.UP){
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+        //更新为上架
+        productInfoEntity.setProductStatus(ProductStatusEnum.UP.getCode());
+        this.updateById(productInfoEntity);
+        return productInfoEntity;
+    }
+
+    @Override
+    public ProductInfoEntity offSale(String productId) {
+        //查询商品是否存在
+        ProductInfoEntity productInfoEntity = this.getById(productId);
+        if(productInfoEntity==null){
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        //判断商品是否下架，下架则错误
+        if(productInfoEntity.getProductStatusEnum()== ProductStatusEnum.DOWN){
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+        //更新为上架
+        productInfoEntity.setProductStatus(ProductStatusEnum.DOWN.getCode());
+        this.updateById(productInfoEntity);
+        return productInfoEntity;
     }
 }

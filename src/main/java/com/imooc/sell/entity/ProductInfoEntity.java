@@ -4,6 +4,9 @@ import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.imooc.sell.enums.ProductStatusEnum;
+import com.imooc.sell.utils.EnumUtil;
 import lombok.Data;
 
 import java.math.BigDecimal;
@@ -36,4 +39,15 @@ public class ProductInfoEntity {
     /** 类目编号  */
     private Integer categoryType;
 
+    //set字段自定义注入时间
+    @TableField(update = "now()")
+    private Date createTime;
+
+    @TableField(update = "now()")
+    private Date updateTime;
+
+    @JsonIgnore
+    public ProductStatusEnum getProductStatusEnum(){
+        return  EnumUtil.getByCode(productStatus,ProductStatusEnum.class);
+    }
 }

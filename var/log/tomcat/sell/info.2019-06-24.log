@@ -127,3 +127,211 @@ HikariPool-1 - Start completed.
 【总页数】 page=3
 【总页数】 page=3
 【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25348 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1086 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.292 seconds (JVM running for 4.496)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 24388 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1066 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.2 seconds (JVM running for 4.63)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 15420 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1247 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.759 seconds (JVM running for 5.462)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 14664 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 4.792 seconds (JVM running for 5.907)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 14208 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 4.732 seconds (JVM running for 5.769)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+ProductInfoEntity(productId=123456, productName=皮蛋粥, productPrice=3.50, productStock=0, productDescription=很好喝, productIcon=https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3560554948,364181004&fm=85&app=63&f=JPEG?w=121&h=75&s=B90BEA17103B74220EDDCCFF0300B032, productStatus=1, categoryType=1, createTime=Wed Jun 12 09:39:04 CST 2019, updateTime=Thu Jun 20 04:43:31 CST 2019)
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 21860 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 5.164 seconds (JVM running for 6.297)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 22696 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 6.315 seconds (JVM running for 7.428)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 20012 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 4.895 seconds (JVM running for 5.987)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 19712 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 5.401 seconds (JVM running for 6.422)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 20720 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 5.965 seconds (JVM running for 7.11)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 10612 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 4.928 seconds (JVM running for 6.472)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductInfoServiceTest on DESKTOP-GP4UST7 with PID 4628 (started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductInfoServiceTest in 4.943 seconds (JVM running for 6.714)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 12776 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1031 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.123 seconds (JVM running for 4.333)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 17256 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1092 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.503 seconds (JVM running for 4.733)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 1080 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1132 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.546 seconds (JVM running for 4.931)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 23060 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 943 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.866 seconds (JVM running for 3.908)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
