@@ -34,13 +34,13 @@ public class ProductInfoEntity {
     private String productIcon;
 
     /** 商品状态 ，0正常1下架  */
-    private Integer productStatus;
+    private Integer productStatus=ProductStatusEnum.UP.getCode();
 
     /** 类目编号  */
     private Integer categoryType;
 
     //set字段自定义注入时间
-    @TableField(update = "now()")
+//    @TableField(update = "now()")
     private Date createTime;
 
     @TableField(update = "now()")

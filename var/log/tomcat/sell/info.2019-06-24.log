@@ -335,3 +335,572 @@ Initializing Servlet 'dispatcherServlet'
 Completed initialization in 8 ms
 HikariPool-1 - Starting...
 HikariPool-1 - Start completed.
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25040 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1095 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.431 seconds (JVM running for 4.665)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 5344 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1133 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.444 seconds (JVM running for 4.805)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 5360 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1085 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.51 seconds (JVM running for 4.947)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 24720 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1091 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.228 seconds (JVM running for 4.886)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 5852 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1027 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.104 seconds (JVM running for 4.319)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m28s713ms2µs221ns).
+Starting SellApplication on DESKTOP-GP4UST7 with PID 24816 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1138 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.28 seconds (JVM running for 4.673)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 13516 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1018 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.069 seconds (JVM running for 4.292)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 21876 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1179 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.4 seconds (JVM running for 4.815)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 7708 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1109 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.333 seconds (JVM running for 4.949)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25360 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1035 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.16 seconds (JVM running for 4.362)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 14472 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1090 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.296 seconds (JVM running for 4.48)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【总页数】 page=8
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 26508 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1036 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.129 seconds (JVM running for 4.472)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m59s195ms577µs464ns).
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1374fa2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@53a26aa3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@555082e2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@43b40e3f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@71be2f5d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@d583b99 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6a2253e2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@38a61823 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@18349f51 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@17bc598b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25268 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1225 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.619 seconds (JVM running for 4.922)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 24804 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1113 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.446 seconds (JVM running for 4.8)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m35s582ms307µs12ns).
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6d51786c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4e5dbfdb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6f8be367 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5979792 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@576bb84 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@20d01b4c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@12aa3e7b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a6d171c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b3c4ef1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2876f93d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 26120 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1132 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.311 seconds (JVM running for 4.815)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 15892 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1054 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.224 seconds (JVM running for 4.618)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25524 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1262 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.67 seconds (JVM running for 5.375)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51s908ms379µs437ns).
+Starting SellApplication on DESKTOP-GP4UST7 with PID 22804 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1281 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.727 seconds (JVM running for 5.17)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m56s761ms4µs997ns).
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25172 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1062 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.16 seconds (JVM running for 4.516)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 22068 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1079 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.432 seconds (JVM running for 4.667)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m52s456ms907µs12ns).
+Starting SellApplication on DESKTOP-GP4UST7 with PID 12196 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1157 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.365 seconds (JVM running for 4.725)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18528 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1132 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.461 seconds (JVM running for 4.724)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 21540 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1034 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.104 seconds (JVM running for 4.389)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【总页数】 page=3
+【总页数】 page=3
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18152 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1085 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.291 seconds (JVM running for 4.763)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 22776 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1042 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.148 seconds (JVM running for 4.65)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18908 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1132 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.494 seconds (JVM running for 4.984)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 10736 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1212 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.554 seconds (JVM running for 4.957)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 4932 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1064 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.281 seconds (JVM running for 4.694)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 25968 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1179 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.534 seconds (JVM running for 4.807)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 18672 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1289 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.565 seconds (JVM running for 4.794)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Starting SellApplication on DESKTOP-GP4UST7 with PID 15480 (D:\workspace\sell\target\classes started by 89284 in D:\workspace\sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1102 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 3.495 seconds (JVM running for 4.771)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+【总页数】 page=3

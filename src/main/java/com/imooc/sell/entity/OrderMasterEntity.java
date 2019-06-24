@@ -33,7 +33,7 @@ public class OrderMasterEntity {
     private Integer payStatus = PayStatusEnum.WAIT.getCode();
 
     //set字段自定义注入时间
-    @TableField(update = "now()")
+//    @TableField(update = "now()")
     private Date createTime;
 
     @TableField(update = "now()")

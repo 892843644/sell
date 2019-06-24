@@ -19,7 +19,7 @@ public class ProductCategoryEntity {
     private Integer categoryType;
 
     //set字段自定义注入
-    @TableField(update = "now()")
+//    @TableField(update = "now()")
     private Date createTime;
 
     @TableField(update = "now()")
