@@ -8,6 +8,9 @@ spring:
     username: root
     password: 123456
     url: jdbc:mysql://192.168.194.129/sell?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+  redis:
+    host: 192.168.194.129
+    port: 6379
 ##  打印sql语句
 #  jpa:
 #    show-sql: true
@@ -43,7 +46,10 @@ wechat:
   #异步通知地址
   notifyUrl: http://wcs.natapp1.cc//sell/pay/notify
 
-
+project-url:
+  wechatMpAuthorize: http://wcs.natapp1.cc
+  wechatOpenAuthorize: http://wcs.natapp1.cc
+  sell: http://wcs.natapp1.cc
 
 
 

@@ -56,17 +56,17 @@
                     <#if orderDTOPage.current lte 1>
                         <li class="disabled"><a href="#">上一页</a></li>
                     <#else>
-                        <li><a href="http://127.0.0.1:8080/sell/seller/order/list?page=${orderDTOPage.current-1}&size=${size}">上一页</a></li>
+                        <li><a href="/sell/seller/order/list?page=${orderDTOPage.current-1}&size=${size}">上一页</a></li>
                     </#if>
 
                     <#list  1..pages as index>
                         <#if orderDTOPage.current==index>
                          <li class="disabled">
-                             <a href="http://127.0.0.1:8080/sell/seller/order/list?page=${index}&size=${size}">${index}</a>
+                             <a href="/sell/seller/order/list?page=${index}&size=${size}">${index}</a>
                          </li>
                         <#else>
                         <li>
-                            <a href="http://127.0.0.1:8080/sell/seller/order/list?page=${index}&size=${size}">${index}</a>
+                            <a href="/sell/seller/order/list?page=${index}&size=${size}">${index}</a>
                         </li>
                         </#if>
                     </#list>
@@ -74,7 +74,7 @@
                     <#if orderDTOPage.current gte pages >
                     <li class="disabled"><a href="#">下一页</a></li>
                     <#else>
-                     <li><a href="http://127.0.0.1:8080/sell/seller/order/list?page=${orderDTOPage.current+1}">下一页</a></li>
+                     <li><a href="/sell/seller/order/list?page=${orderDTOPage.current+1}">下一页</a></li>
                     </#if>
                         </ul>
                     </div>

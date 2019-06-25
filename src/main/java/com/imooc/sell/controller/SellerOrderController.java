@@ -57,7 +57,6 @@ public class SellerOrderController {
         //将转换完的set进orderDTOPage对象
         orderDTOPage.setRecords(orderDTOList);
         map.put("orderDTOPage",orderDTOPage);
-        log.info("【总页数】 page={}",orderDTOPage.getPages());
         map.put("pages",orderDTOPage.getPages());
         map.put("size",size);
         return new ModelAndView("order/list",map);
