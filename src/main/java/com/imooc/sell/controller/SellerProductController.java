@@ -15,6 +15,8 @@ import com.imooc.sell.utils.KeyUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.CacheEvict;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;
 import org.springframework.validation.BindingResult;
@@ -45,6 +47,7 @@ public class SellerProductController {
     private ProductCategoryService productCategoryService;
 
     @GetMapping("/list")
+
     public ModelAndView list(@RequestParam(value = "page",defaultValue = "1") Integer page,
                              @RequestParam(value = "size",defaultValue = "3") Integer size,
                              Map<String,Object> map){
@@ -125,6 +128,7 @@ public class SellerProductController {
      * @return
      */
     @PostMapping("/save")
+    @CacheEvict(cacheNames = "product",key = "123")
     public ModelAndView save(@Valid ProductFrom productFrom,
                              BindingResult bindingResult,
                              Map<String,Object> map){

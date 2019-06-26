@@ -12,6 +12,7 @@ import com.imooc.sell.service.ProductInfoService;
 import com.imooc.sell.utils.ResultVoUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -32,6 +33,7 @@ public class BuyerProductController  {
     private ProductCategoryService productCategoryService;
 
     @GetMapping("/list")
+    @Cacheable(cacheNames = "product",key = "123")
     public ResultVO list(){
         //1.查询所有上架商品
         Map<String,Object> map=new HashMap<>();

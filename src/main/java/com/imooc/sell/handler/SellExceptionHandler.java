@@ -18,7 +18,7 @@ package com.imooc.sell.handler;
 public class SellExceptionHandler {
     //拦截登陆异常
     @ExceptionHandler(value = SellerAuthorizeException.class)
-    public ModelAndView handlerAuthorizeException(){
+    public  ModelAndView handlerAuthorizeException(){
         return new ModelAndView("login/login");
     }
 

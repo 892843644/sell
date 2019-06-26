@@ -55,21 +55,6 @@ project-url:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #这种配置日志方式功能太少，使用xml
 #logging:
 #  pattern:
