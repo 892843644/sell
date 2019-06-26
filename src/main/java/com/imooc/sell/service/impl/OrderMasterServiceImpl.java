@@ -14,6 +14,7 @@ import com.imooc.sell.enums.PayStatusEnum;
 import com.imooc.sell.enums.ResultEnum;
 import com.imooc.sell.exception.SellException;
 import com.imooc.sell.service.OrderMasterService;
+import com.imooc.sell.service.WebSocket;
 import com.imooc.sell.utils.KeyUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
@@ -32,10 +33,18 @@ import java.util.stream.Collectors;
 public class OrderMasterServiceImpl extends ServiceImpl<OrderMasterDAO,OrderMasterEntity> implements OrderMasterService{
     @Autowired
     private ProductInfoServiceImpl productInfoService;
+
     @Autowired
     private OrderDetailServiceImpl orderDetailService;
+
     @Autowired
     private  OrderMasterServiceImpl orderMasterService;
+
+    @Autowired
+    private PushMessageServiceImpl pushMessageService;
+
+    @Autowired
+    private WebSocket webSocket;
 
     @Override
     @Transactional
@@ -87,6 +96,8 @@ public class OrderMasterServiceImpl extends ServiceImpl<OrderMasterDAO,OrderMast
                 map(e -> new CartDTO(e.getProductId(), e.getProductQuantity())).collect(Collectors.toList());
         //扣除库存
         productInfoService.decreaseStock(cartDTOList);
+        //发送websocket消息
+        webSocket.sendMessage(orderDTO.getOrderId());
         return orderDTO;
     }
 
@@ -168,6 +179,9 @@ public class OrderMasterServiceImpl extends ServiceImpl<OrderMasterDAO,OrderMast
             log.error("【完结订单】更新失败，orderMasterEntity={}",orderMasterEntity);
             throw new SellException(ResultEnum.ORDER_UPDATE_FAIL);
         }
+        //推送微信模板消息
+        pushMessageService.orderStatus(orderDTO);
+
         return orderDTO;
     }
 

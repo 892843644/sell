@@ -7,7 +7,7 @@ import com.imooc.sell.dto.OrderDTO;
  * @description ：
  * @CreateTime ：Created in 2019/6/25 15:13
  */
-public interface PushMessage {
+public interface PushMessageService {
 
     /**
      * 订单状态变更消息

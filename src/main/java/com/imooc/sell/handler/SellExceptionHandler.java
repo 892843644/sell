@@ -1,9 +1,13 @@
 package com.imooc.sell.handler;
 
-import com.imooc.sell.exception.SellerAuthorizeException;
-import org.springframework.web.bind.annotation.ControllerAdvice;
-import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.servlet.ModelAndView;
+        import com.imooc.sell.VO.ResultVO;
+        import com.imooc.sell.exception.SellException;
+        import com.imooc.sell.exception.SellerAuthorizeException;
+        import com.imooc.sell.utils.ResultVoUtil;
+        import org.springframework.web.bind.annotation.ControllerAdvice;
+        import org.springframework.web.bind.annotation.ExceptionHandler;
+        import org.springframework.web.bind.annotation.ResponseBody;
+        import org.springframework.web.servlet.ModelAndView;
 
 /**
  * @Author ：cjy
@@ -17,4 +21,12 @@ public class SellExceptionHandler {
     public ModelAndView handlerAuthorizeException(){
         return new ModelAndView("login/login");
     }
+
+    //拦截SellException修改返回异常文本
+    @ExceptionHandler
+    @ResponseBody
+    public ResultVO handlerSellerException(SellException e){
+        return ResultVoUtil.error(e.getMessage(),e.getCode());
+    }
+
 }

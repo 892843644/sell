@@ -44,8 +44,9 @@ wechat:
   mchKey: qqq
   keyPath: /var/weixin_cert/h5.p12
   #异步通知地址
-  notifyUrl: http://wcs.natapp1.cc//sell/pay/notify
-
+  notifyUrl: http://wcs.natapp1.cc/sell/pay/notify
+  templateId:
+    orderStatus: QGPdgyXmh2HjZHttuq_m4zFN8mXvKdDH-hyFH2q3WM4
 project-url:
   wechatMpAuthorize: http://wcs.natapp1.cc
   wechatOpenAuthorize: http://wcs.natapp1.cc

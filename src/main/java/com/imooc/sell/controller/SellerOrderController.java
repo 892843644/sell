@@ -43,8 +43,11 @@ public class SellerOrderController {
     public ModelAndView list(@RequestParam(value = "page",defaultValue = "1") Integer page,
                              @RequestParam(value = "size",defaultValue = "10") Integer size,
                              Map<String,Object> map){
+
         IPage<OrderMasterEntity> orderMasterEntityPage=new Page<>(page,size);
-        orderMasterEntityPage = orderMasterService.page(orderMasterEntityPage);
+        QueryWrapper<OrderMasterEntity> queryWrapper=new QueryWrapper<>();
+        queryWrapper.orderByDesc("create_time");
+        orderMasterEntityPage = orderMasterService.page(orderMasterEntityPage,queryWrapper);
         IPage<OrderDTO> orderDTOPage = new Page<>();
         BeanUtils.copyProperties(orderMasterEntityPage,orderDTOPage);
 
