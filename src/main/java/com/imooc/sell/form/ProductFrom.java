@@ -11,6 +11,7 @@ import java.math.BigDecimal;
  */
 @Data
 public class ProductFrom {
+
     private String productId;
 
     /** 商品名称 */

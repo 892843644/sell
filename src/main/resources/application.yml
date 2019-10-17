@@ -36,6 +36,7 @@ mybatis-plus:
 server:
   servlet:
     context-path: /sell
+  port: 8111
 
 wechat:
   mpAppId: wx7e43b0ef828ebb9e
